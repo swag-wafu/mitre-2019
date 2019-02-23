@@ -1,6 +1,6 @@
 # PGP - Crypto (50 pts)
 
-## Description
+## Description
 
 Quatre fichiers sont fournis :
 - key.enc (Fichier chiffré)
@@ -10,7 +10,7 @@ Quatre fichiers sont fournis :
 
 L'idée est d'apprendre à utiliser PGP.
 
-## Soluce
+## Soluce
 
 - Première étape :
 Utiliser *gpg2* ou un utilitaire graphique (*gpa*) pour importer la clé PGP privée (mitre-ctf-2019-private.enc).
