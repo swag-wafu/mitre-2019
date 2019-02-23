@@ -17,3 +17,5 @@ You can do it in one line with:
 `ssh ctf@138.247.13.114 | grep "MCA" | cat -v`
 
 The command `cat -v` disables the ANSI escape code that mess the terminal.
+
+The flag is: `MCA{Airadaepohh8Sha}`.
